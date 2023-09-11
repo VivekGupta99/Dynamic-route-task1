@@ -1,9 +1,16 @@
 [
 	{
-		"id": 12345,
+		"id": "12345",
 		"title": "A Book",
 		"imageUrl": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
 		"description": "This is an awesome book!",
 		"price": "19"
+	},
+	{
+		"title": "Water bottle",
+		"imageUrl": "https://www.themessycorner.in/cdn/shop/products/DG4_800x.jpg?v=1680936553",
+		"description": "nice water bottle",
+		"price": "24.99",
+		"id": "0.48305772427678373"
 	}
 ]
